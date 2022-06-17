@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/downloads
+Older releases are available and the Git source repository is on GitHub.
+
+Older releases: https://mirrors.edge.kernel.org/pub/software/scm/git/
+
+Git source repository: https://github.com/git/git
